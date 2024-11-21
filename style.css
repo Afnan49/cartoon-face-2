@@ -123,7 +123,7 @@
       var(--blackLight) 0
     ),
     radial-gradient(circle at 21% 81%, var(--white) 3%, var(--blackLight) 0),
-    radial-gradient(circle at 27% 85%, var(--white) 3% var(--blackLight) 0);
+    radial-gradient(circle at 27% 85%, var(--white) 3%, var(--blackLight) 0);
 }
 .glass-chin {
   width: 12%;
